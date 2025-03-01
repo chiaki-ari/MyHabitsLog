@@ -22,6 +22,7 @@
 
 ## ダウンロードと使い方
 ### ダウンロード
+
 [MyHabitsLog_v1.0.xlsm をダウンロード](https://github.com/chiaki-ari/MyHabitsLog/releases/download/v1.0/MyHabitsLog_ver1.0.xlsm)  
 
 ### 使い方
@@ -72,3 +73,4 @@ Currently, this tool supports only Japanese.
 **Notes**  
 - Recommended for Windows Excel users (Some features may not work on Mac)  
 - Macros must be enabled for proper functionality 
+
